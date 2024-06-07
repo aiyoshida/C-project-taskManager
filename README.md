@@ -1,9 +1,6 @@
 ## Overview
 The Task Manager project is a C program developed as part of a course assignment for "The Basics of Programming" at Budapest University of Technology and Economics (BME). This program allows users to manage tasks using a command-line interface, supporting features such as task creation, viewing unfinished tasks, categorizing tasks, and managing task dependencies.
 
-## Student Information
-- **Name**: Ai Yoshida
-- **Class**: The Basics of Programming
 
 ## Features
 - Create new tasks with details including name, description, category, start and end dates, priority, and dependencies.
