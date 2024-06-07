@@ -3,9 +3,7 @@ The Task Manager project is a C program developed as part of a course assignment
 
 ## Student Information
 - **Name**: Ai Yoshida
-- **Neptun Code**: FPYYT9
 - **Class**: The Basics of Programming
-- **Professor**: Harvoth Gabor
 
 ## Features
 - Create new tasks with details including name, description, category, start and end dates, priority, and dependencies.
